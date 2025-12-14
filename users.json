@@ -4,5 +4,11 @@
         "email": "riya12345@gmail.com",
         "address": "Kathmandu",
         "password": "$2y$10$OWC8vouygRwf6Ds3z9f3Su0j4MPvcmgpNstXFD8JTsUc6F0wiPt8q"
+    },
+    {
+        "name": "riya",
+        "email": "qer1@gmail.com",
+        "address": "ktm",
+        "password": "$2y$10$n0XKa10y6ZMXR1L1FrMqCOVn6LGfSfvQPCAss1.KQOTUC\/wHXo7vO"
     }
 ]
